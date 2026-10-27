@@ -57,10 +57,18 @@ A frontend food delivery application developed using HTML, CSS, and JavaScript.
 
 🔗 [Live Demo](https://food-delivery-lovat-six.vercel.app/)
 
-### 🎮 Gaming Project
-A gaming-focused web development project showcasing my frontend development and interactive design practice.
+### 🚆 Train Ticket Booking Application
 
-🔗 [View Repository](https://github.com/Rajeshgouda-143/GAMING-PROJECT)
+A train ticket booking application developed to practice application logic, data management, and the booking workflow.
+
+- 🎫 Train ticket booking functionality.
+- 🚆 Train and route information.
+- 🗄️ Database operations using SQLite.
+- 💻 Practical application development using Python.
+
+🔗 **[Live Demo](https://train-ticket-booking-app-puce.vercel.app/)**
+
+
 
 ### ✨ Animated Portfolio
 A personal portfolio website designed to showcase my skills, projects, and development journey.
