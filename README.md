@@ -6,8 +6,8 @@ I'm passionate about software development and building practical web application
 
 - 🎓 BCA Computer Science Graduate — 2025
 - 💻 Interested in Python Full Stack and Web Development
-- 🌱 Currently improving my skills in React.js, Django, and SQL
-- 🚀 Learning by building real-world projects
+- 🌱 Improving my skills in React.js, Django, and SQL
+- 🚀 Learning by building practical projects
 - 🎯 Looking for opportunities to start my career as a software developer
 
 ---
@@ -57,15 +57,15 @@ A frontend food delivery application developed using HTML, CSS, and JavaScript.
 
 🔗 [Live Demo](https://food-delivery-lovat-six.vercel.app/)
 
+### 🎮 Gaming Project
+A gaming-focused web development project showcasing my frontend development and interactive design practice.
+
+🔗 [View Repository](https://github.com/Rajeshgouda-143/GAMING-PROJECT)
+
 ### ✨ Animated Portfolio
-A personal portfolio website designed to showcase my skills, projects, and development journey through an engaging interface.
+A personal portfolio website designed to showcase my skills, projects, and development journey.
 
 🔗 [Live Demo](https://animated-portfolio-seven-alpha.vercel.app/)
-
-### 🛍️ E-Commerce Shopping Cart
-A React-based e-commerce project focused on product browsing, cart functionality, and building an interactive shopping experience.
-
-🔗 [View Repository](https://github.com/Rajeshgouda-143/E-Commerce-Shopping-Cart-Project)
 
 ---
 
@@ -79,7 +79,7 @@ A React-based e-commerce project focused on product browsing, cart functionality
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: [Rajesh Kumar Gouda](https://www.linkedin.com/in/rajesh-kumar-gouda-055385375/)
 - 💻 GitHub: [@Rajeshgouda-143](https://github.com/Rajeshgouda-143)
 - 🌐 Portfolio: [Visit My Portfolio](https://animated-portfolio-seven-alpha.vercel.app/)
 
